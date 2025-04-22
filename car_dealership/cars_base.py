@@ -1,5 +1,3 @@
-import time
-
 audi_a_series = {
     'a4': {
         'brand': 'audi',
