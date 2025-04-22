@@ -29,6 +29,35 @@ audi_a_series = {
         'mileage': '49.000 km',
     },
 }
+audi_rs_series = {
+    'rs4': {
+        'brand': 'audi',
+        'model': 'rs4',
+        'color': 'blue',
+        'year': '2020',
+        'price': '70.000$',
+        'engine': '2.9 TFSI',
+        'mileage': '20.000 km',
+    },
+    'rs5': {
+        'brand': 'audi',
+        'model': 'rs5',
+        'color': 'red',
+        'year': '2021',
+        'price': '80.000$',
+        'engine': '2.9 TFSI',
+        'mileage': '15.000 km',
+        'rs7': {
+            'brand': 'audi',
+            'model': 'rs7',
+            'color': 'black',
+            'year': '2022',
+            'price': '100.000$',
+            'engine': '4.0 TFSI',
+            'mileage': '10.000 km',
+        },
+    },
+}
 
 print('Добро пожаловать в автосалон!')
 
